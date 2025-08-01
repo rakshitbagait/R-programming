@@ -9,3 +9,5 @@ p = 3
 print(p)
 
     
+var =readline(prompt="enter a number")
+print(var)
