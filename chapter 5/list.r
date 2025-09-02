@@ -23,5 +23,3 @@ print(student$name)
 
 print(student[["marks"]])
 
-
-print(56:67826)
