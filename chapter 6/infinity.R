@@ -1,0 +1,2 @@
+foo<- Inf
+print(foo)
