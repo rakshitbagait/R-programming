@@ -10,8 +10,8 @@ print(data)
 new_row = data.frame(person="Brian",age = 32,sex=factor(T,levels=levels(data$sex)))
 data= rbind(data,new_row)
 print(data)
-
 new_colum = data.frame(exp=c("fresher","2nd","3rd","fresher"))
 data = cbind(data,new_colum)
 print(data)
 
+        
